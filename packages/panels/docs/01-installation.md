@@ -2,7 +2,7 @@
 title: Installation
 ---
 
-## Requirements
+## Voraussetzungen
 
 Filament requires the following to run:
 
